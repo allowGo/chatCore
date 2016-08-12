@@ -1,0 +1,15 @@
+
+
+#define isUnitTest 0
+#define GCDAsyncSocketLoggingEnabled 1
+
+
+#import <Availability.h>
+#import "CocoaLumberjack.h"
+#import "DDLogMacros.h"
+#import <CocoaLumberjack/DDLog.h>
+
+
+#define DD_LEGACY_MACROS 0
+
+static const DDLogLevel ddLogLevel = DDLogLevelDebug;
