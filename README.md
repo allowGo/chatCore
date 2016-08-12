@@ -22,7 +22,7 @@ pod "qinChat"
 
 ## Author
 
-liuxianglong, liuxianglong@shuzijiayuan.com
+wangalei, wangalei_work@163.com
 
 ## License
 
