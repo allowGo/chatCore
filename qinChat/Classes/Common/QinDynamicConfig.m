@@ -1,5 +1,5 @@
 //
-// Created by 祥龙 on 16/2/29.
+// Created by LEI on 16/2/29.
 //
 
 #import "QinDynamicConfig.h"
