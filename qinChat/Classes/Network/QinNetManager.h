@@ -3,7 +3,7 @@
  @abstract 网络管理类. 进行长连接的相关管理.以及输出网络数据,网络状态
  @author kinstalk.com
  @version 1.00 15/8/9
- Created by 祥龙 on 15/9/10
+ Created by LEI on 15/9/10
 */
 
 #import <Foundation/Foundation.h>
