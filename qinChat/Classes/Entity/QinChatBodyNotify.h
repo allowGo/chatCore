@@ -1,5 +1,5 @@
 //17号协议 实体
-// Created by 祥龙 on 16/6/6.
+// Created by LEI on 16/6/6.
 //
 
 #import <Foundation/Foundation.h>
