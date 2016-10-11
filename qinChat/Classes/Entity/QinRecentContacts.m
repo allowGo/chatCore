@@ -2,7 +2,7 @@
 //  QinRecentContacts.m
 //  QinCore
 //
-//  Created by 王晔 on 15/8/15.
+//  Created by LEI on 15/8/15.
 //  Copyright (c) 2015年 kinstalk.com. All rights reserved.
 //
 
