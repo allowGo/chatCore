@@ -1,6 +1,6 @@
 /*
  协议封包工具类
- Created by 祥龙 on 15/8/9.
+ Created by LEI on 15/8/9.
 */
 
 #import <Foundation/Foundation.h>
