@@ -1,5 +1,5 @@
 //协议封装工具类
-// Created by 祥龙 on 15/8/10.
+// Created by LEI on 15/8/10.
 // Copyright (c) 2015 kinstalk.com. All rights reserved.
 //
 
