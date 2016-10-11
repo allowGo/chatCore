@@ -2,7 +2,7 @@
 //  QinMsgModel2InfoUtil.h
 //  QinCore
 //
-//  Created by 王晔 on 15/8/13.
+//  Created by LEI on 15/8/13.
 //  Copyright (c) 2015年 kinstalk.com. All rights reserved.
 //
 
