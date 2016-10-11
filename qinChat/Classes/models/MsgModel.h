@@ -2,7 +2,7 @@
 //  MsgModel.h
 //  QinCore
 //
-//  Created by 王晔 on 15/8/12.
+//  Created by LEI on 15/8/12.
 //  update by liuxianglong on 16/3/13
 //  Copyright (c) 2015年 kinstalk.com. All rights reserved.
 //
